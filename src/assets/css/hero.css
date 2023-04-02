@@ -1,0 +1,18 @@
+
+.shop-btn{
+        padding:20px;
+        position:absolute;
+        top:350px;
+         left : 100px  ;
+         font-size : 30px  ;
+         font-family :  'Ubuntu' , sans-serif  ;
+         text-transform : uppercase  ;
+         color : white  ;
+         background-color : #131313  ;
+         border : none 
+}
+.shop-btn:hover{
+    color:rgb(27, 27, 27);
+    background-color:#dedede;
+    cursor: pointer;
+}

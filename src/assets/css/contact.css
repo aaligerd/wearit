@@ -1,0 +1,31 @@
+.subscribe-section{
+    background-color: black;
+    color: whitesmoke;
+    padding: 40px 10px;
+}
+.subscribe-section p{
+    font-size: 18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.subscribe-section p:first-child{
+    font-size: 40px;
+    margin: 10px 0px ;
+}
+.subscribe-section form input{
+    width: 90%;
+    height: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+.subscribe-section button{
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+background-color: rgb(223, 100, 100);    
+}
+.subscribe-section button:hover{
+color: rgb(36, 36, 36);
+background-color: rgb(228, 228, 228);
+}

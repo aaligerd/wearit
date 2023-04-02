@@ -1,0 +1,9 @@
+.footer{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(38, 38, 38);
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    
+}
